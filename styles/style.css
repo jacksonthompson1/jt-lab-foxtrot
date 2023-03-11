@@ -3,19 +3,39 @@
 }
 
 .card-title {
-  background-color: black;
+  background-color: grey;
 }
 
 .card-body {
   background-color: black;
   
 }
+.textforcard {
+  font-size: x-large;
+}
+
+
+.picTxt {
+  position: relative;
+  float: left;
+}
+
+.txtOverlay {
+  font-size: large;
+  font-weight: 600;
+  color: black;
+  position: absolute;
+  left: 170px;
+  top: 100px;
+}
+
 
 #jt {
   width: 800px;
   height: 800px;
   margin-top: 18px;
   margin-left: 150px;
+
   
 }
 
